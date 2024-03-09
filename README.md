@@ -16,3 +16,9 @@ An example would be a **yoga program for children with learning disabilities**. 
 Another real-life example would be **art therapy for children** with disabilities, providing a creative environment for expression and healing. Through artistic activities for their abilities, children can experience enhanced self-esteem, emotional regulation, and communication skills. Art therapy encourages exploration, imagination, and self-discovery, fostering a sense of accomplishment and empowerment in children as they navigate their unique challenges. [Here](https://github.com/solution-sprint-cobra/research/tree/main/images/art) are some examples. And an additional [paper](https://www.tandfonline.com/doi/abs/10.1080/07421656.1993.10759018) to support the idea.
 
 ![Art for children with disablities](https://raw.githubusercontent.com/solution-sprint-cobra/research/main/images/art/art2.jpg?token=GHSAT0AAAAAACJJPVAX2ASYC7KZBQTLGOAYZPMX3OA)
+
+---
+## Access-friendly walking tracks
+
+Access-friendly walking tracks present another important example, offering children with disabilities the **opportunity to engage with nature and physical activity in a safe, inclusive environment**. These pathways promote not only physical health through gentle exercise but also mental well-being by connecting children with the calming effects of the outdoors. By providing a space where children can explore and move freely, access-friendly walking tracks support independence, social interaction, and a deeper appreciation for the natural world, enhancing the quality of life.
+
