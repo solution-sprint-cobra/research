@@ -7,4 +7,4 @@ The purpose of this repo is to explore the potential of technology, particularly
 ## Yoga for children with learning disabilities
 
 An example would be a **yoga program for children with learning disabilities**. This specialized approach combines yoga poses and mindfulness exercises to enhance physical **health and emotional well-being**, fostering confidence and relaxation in participants. [Here are some real-life events](https://github.com/solution-sprint-cobra/research/tree/main/images/yoga). And additional [papers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165980/) to strengthen the idea.
-![Yoga for children with disablities](https://github.com/solution-sprint-cobra/research/tree/main/images/yoga/yoga2.jpg)
+![Alt text](https://raw.githubusercontent.com/solution-sprint-cobra/research/main/images/yoga/yoga2.jpg)
