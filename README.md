@@ -23,4 +23,8 @@ Another real-life example would be **art therapy for children** with disabilitie
 Access-friendly walking tracks present another important example, offering children with disabilities the **opportunity to engage with nature and physical activity in a safe, inclusive environment**. These pathways promote not only physical health through gentle exercise but also mental **well-being by connecting children with the calming effects of the outdoors**. By providing a space where children can explore and move freely, access-friendly walking tracks support independence, social interaction, and a deeper appreciation for the natural world, enhancing the quality of life. Here are some example [images](https://github.com/solution-sprint-cobra/research/tree/main/images/outdoor-track/).
 
 ![Access-friendly tracks](https://github.com/solution-sprint-cobra/research/blob/main/images/outdoor-track/track2.jpg)
+---
+<div style="text-align:center">
+  <img src="[image_url](https://github.com/solution-sprint-cobra/research/blob/main/images/outdoor-track/track2.jpg)https://github.com/solution-sprint-cobra/research/blob/main/images/outdoor-track/track2.jpg" alt="image text" style="width:300px;height:200px;">
+</div>
 
