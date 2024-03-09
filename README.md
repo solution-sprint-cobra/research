@@ -25,3 +25,7 @@ Access-friendly walking tracks present another important example, offering child
 ![Access-friendly tracks](https://github.com/solution-sprint-cobra/research/blob/main/images/outdoor-track/track2.jpg)
 ---
 
+## Conclusion
+
+In conclusion, our app has explored the transformative potential of technology in enhancing social interaction and support for children with learning disabilities. By examining the current interests and abilities and also discussing the unique needs and challenges faced, we have highlighted the importance of creating inclusive and accessible digital spaces tailored to their specific requirements. With the goal of our app being to empower disabled individuals to socialize through activities aligned with their interests and preferences, we envision a future where every child, regardless of ability, can connect, engage, and thrive in a **supportive and inclusive community**.
+
