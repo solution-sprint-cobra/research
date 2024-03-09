@@ -24,7 +24,7 @@ Access-friendly walking tracks present another important example, offering child
 
 ![Access-friendly tracks](https://github.com/solution-sprint-cobra/research/blob/main/images/outdoor-track/track2.jpg)
 ---
-<div style="text-align:center">
+<div style="margin: 0 auto; width: fit-content;">
   <img src="https://github.com/solution-sprint-cobra/research/blob/main/images/outdoor-track/track2.jpg" alt="image text" style="width:300px;height:200px;">
 </div>
 
